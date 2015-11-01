@@ -1,0 +1,3 @@
+[submodule "corpora"]
+	path = corpora
+	url = git@github.com:dariusk/corpora.git
