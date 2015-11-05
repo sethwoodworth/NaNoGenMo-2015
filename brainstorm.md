@@ -17,3 +17,13 @@ I have ~40k books on github.
 What if you could walk around a library?
 What if you are building a library?
 Is there a novel to be generated about the rise and fall of a library?
+
+### Flowchart generation of fights
+Find fights in stories, parse them, ???, profit?
+
+### Travelog
+Detect sentences/paragraphs about travel
+Generate journeys by stringing them together
+
+#### Exploration
+I need <method of conveyance> (to|from) <city>
